@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.yahyahsjk.store/sitemap.xml
